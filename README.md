@@ -11,7 +11,7 @@ The purpose of this project is to practice HTML and CSS coding while also creati
 
 ## To-Do List
 
-[ ] Basic HTML tags 
+[ ] Basic HTML tags    
 [ ] HTML table  
 [ ] CSS selectors   
 [ ] CSS properties  
