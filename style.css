@@ -1,0 +1,44 @@
+body {
+    font-family: 'Helvetica';
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    color: darkorange;
+}
+
+h2 {
+    text-align: center;
+    color: navy;
+}
+
+table {
+    border-width: 2px;
+    border-style: solid;
+    border-color: darkblue;
+    width: 800px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: darkgrey;
+    color: darkblue;
+}
+
+td {
+    border-top: darkgray;
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.code {
+    font-family: 'monospace';
+    background-color: white;
+    text-align: center;
+    min-width: 150px;
+}
+
+.name {
+    min-width: 100px;
+}
